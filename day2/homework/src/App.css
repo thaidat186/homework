@@ -1,0 +1,60 @@
+.image{
+
+height: 400px;
+width: auto;
+
+}
+.viewCount{
+  position:absolute;
+  bottom:10px;
+  left: 40px;
+  font-size:30px;
+  margin:0px;
+  color: aliceblue;
+}
+.commentCount{
+  position:absolute;
+  bottom:10px;
+  right: 40px;
+  font-size:30px;
+  margin:0px;
+  color: aliceblue;
+}
+.manga-container{
+  position: relative;
+  width: 400px;
+  height: 400px;
+}
+.mangaName{
+  font-size: 50px;
+  display: flex;
+  justify-content: center;
+}
+.chapter-date{
+  display:flex;
+  justify-content:space-around;
+  
+}
+.lastestChapter{
+  font-size:30px;
+}
+.dateModified{
+  font-size:30px;
+}
+
+.mangaContainer{
+  position: relative;
+  width: 400px;
+  height: 400px;
+}
+.ul{
+  /* width:25%; */
+  list-style-type: none;
+  position: relative;
+  width: 400px;
+  height: 400px;
+  padding:0px;
+
+  
+  
+}
